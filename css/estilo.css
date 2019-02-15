@@ -1,0 +1,28 @@
+body {
+    background-color: #ededed;
+
+}
+
+.launch {
+    display: flex;
+    padding: 30px;
+    background-color: #fff;
+    border: 2px solid #aaa;
+    box-shadow: 0px 0px 15px #aaa;
+    border-radius: 20px;
+    margin: auto;
+    width: fit-content;
+
+}
+
+.buttons {
+    padding: 0px 8px;
+
+}
+
+button {
+    width: 70px;
+    height: 70px;
+    border: 2px solid;
+
+}
