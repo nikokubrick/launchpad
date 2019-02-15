@@ -23,6 +23,27 @@ body {
 button {
     width: 70px;
     height: 70px;
-    border: 2px solid;
+    border: outset 2px;
+    margin: 5px;
 
+}
+.blue button {
+    background-color: #6af;
+    border-color:#6af
+}
+.red button {
+    background-color: #f55;
+    border-color:#f55;
+    display: block;
+    margin: 10px;
+    margin-top: 5px;
+    border-radius: 50%;
+}
+.orange button {
+    background-color: #f84;
+    border-color:#f84;
+    display: block;
+    margin: 10px;
+    margin-top: 5px;
+    border-radius: 40px 0px;
 }
